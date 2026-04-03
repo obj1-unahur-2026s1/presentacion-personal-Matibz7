@@ -19,6 +19,3 @@ En mi tiempo libre, disfruto ver películas (preferentemente de terror y ciencia
 
 
 
-### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
