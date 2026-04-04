@@ -15,7 +15,7 @@ Como estudiante, me considero una persona constante y comprometida con el aprend
 En cuanto a mi entorno personal, vivo con mis padres y mis dos hermanos. Además, en casa tenemos tres gatos y dos perros, lo que a veces hace que estudiar sea un desafío importante; sin embargo, trato de organizarme para cumplir con mis responsabilidades académicas.
 
 En mi tiempo libre, disfruto ver películas (preferentemente de terror y ciencia ficción) y series, así como también entrenar.
-
+(./img.jpg)
 
 
 
